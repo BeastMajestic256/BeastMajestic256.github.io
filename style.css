@@ -22,8 +22,8 @@
   font-family: "Arial";
 }
 
-.productDetails {
-  /*transform: scale(0.25);*/
+.productDetails div {
+  transform: scale(1.5);
   /*width: 300%;
   height: 300%;
   font-size: 2.0em;*/
