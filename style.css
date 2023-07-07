@@ -1,24 +1,24 @@
 .desc {
   font-weight: Bold;
   font-family: "Helvetica";
-  font-size: 20px;
+  font-size: 10px;
 }
 
 .title {
   font-weight: Bold;
   font-family: "Helvetica";
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .headSubtitle {
   font-style: Italic;
-  font-size: 25px;
+  font-size: 15px;
   font-family: "Arial";
 }
 
 .headTitle {
   font-weight: Bold;
-  font-size: 50px;
+  font-size: 40px;
   font-family: "Arial";
 }
 
